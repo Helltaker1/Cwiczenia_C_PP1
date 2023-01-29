@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Section2_Instrukcje_warunkowe__wyboru_switch____case",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Section2_Instrukcje_warunkowe__wyboru_switch____case::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Section2_Instrukcje_warunkowe__wyboru_switch____case-Debug-83894a33c220e95df33f.json",
+					"name" : "Section2_Instrukcje_warunkowe__wyboru_switch____case",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Cwiczenia C (PP1)/Section2 Instrukcje warunkowe, wyboru switch .. case/cmake-build-debug",
+		"source" : "C:/Cwiczenia C (PP1)/Section2 Instrukcje warunkowe, wyboru switch .. case"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

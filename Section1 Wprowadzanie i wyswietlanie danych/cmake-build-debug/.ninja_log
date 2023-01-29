@@ -1,0 +1,9 @@
+# ninja log v5
+1	143	6967037867189440	build.ninja	47bcd13f8053ea12
+0	81	6967032389010606	CMakeFiles/Section1_Wprowadzanie_i_wywietlanie_danych.dir/zad2.c.obj	e8a801a028ae1466
+2	96	6967033759438872	CMakeFiles/Section1_Wprowadzanie_i_wywietlanie_danych.dir/zad4.c.obj	79ead1a30a88ab1d
+3	107	6967032837188522	Section1_Wprowadzanie_i_wywietlanie_danych.exe	c7819ba31ec1727e
+2	88	6967032605884850	CMakeFiles/Section1_Wprowadzanie_i_wywietlanie_danych.dir/zad1.c.obj	c422d2f14d80d48f
+6	95	6967033759438872	CMakeFiles/Section1_Wprowadzanie_i_wywietlanie_danych.dir/zad3.c.obj	9ca166756ddd24c4
+9	69	6967033759188600	CMakeFiles/Section1_Wprowadzanie_i_wywietlanie_danych.dir/zad6.c.obj	cffa53645a5351e9
+12	101	6967033759508601	CMakeFiles/Section1_Wprowadzanie_i_wywietlanie_danych.dir/zad5.c.obj	cb8c4ccc1216cbc5

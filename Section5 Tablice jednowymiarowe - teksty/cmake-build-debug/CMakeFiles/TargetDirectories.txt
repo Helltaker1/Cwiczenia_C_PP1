@@ -1,0 +1,3 @@
+C:/Cwiczenia C (PP1)/Section5 Tablice jednowymiarowe - teksty/cmake-build-debug/CMakeFiles/Section5_Tablice_jednowymiarowe___teksty.dir
+C:/Cwiczenia C (PP1)/Section5 Tablice jednowymiarowe - teksty/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Cwiczenia C (PP1)/Section5 Tablice jednowymiarowe - teksty/cmake-build-debug/CMakeFiles/rebuild_cache.dir

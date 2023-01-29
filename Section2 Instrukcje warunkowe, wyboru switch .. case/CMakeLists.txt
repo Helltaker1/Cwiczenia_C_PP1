@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(Section2_Instrukcje_warunkowe__wyboru_switch____case C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(Section2_Instrukcje_warunkowe__wyboru_switch____case zad8.c)

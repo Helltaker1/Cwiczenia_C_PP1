@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Section3_Petle__instrukcje_iteracyjne",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Section3_Petle__instrukcje_iteracyjne::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Section3_Petle__instrukcje_iteracyjne-Debug-f7bbdaa65f1f7e3c2207.json",
+					"name" : "Section3_Petle__instrukcje_iteracyjne",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Cwiczenia C (PP1)/Section3 Petle, instrukcje iteracyjne/cmake-build-debug",
+		"source" : "C:/Cwiczenia C (PP1)/Section3 Petle, instrukcje iteracyjne"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

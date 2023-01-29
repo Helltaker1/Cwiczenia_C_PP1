@@ -1,0 +1,3 @@
+C:/Cwiczenia C (PP1)/Section7 Funkcje I, II/cmake-build-debug/CMakeFiles/Section7_Funkcje_I__II.dir
+C:/Cwiczenia C (PP1)/Section7 Funkcje I, II/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Cwiczenia C (PP1)/Section7 Funkcje I, II/cmake-build-debug/CMakeFiles/rebuild_cache.dir

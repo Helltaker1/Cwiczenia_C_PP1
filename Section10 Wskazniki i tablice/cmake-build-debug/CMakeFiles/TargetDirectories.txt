@@ -1,0 +1,3 @@
+C:/Cwiczenia C (PP1)/Section10 Wskazniki i tablice/cmake-build-debug/CMakeFiles/Section10_Wskazniki_i_tablice.dir
+C:/Cwiczenia C (PP1)/Section10 Wskazniki i tablice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Cwiczenia C (PP1)/Section10 Wskazniki i tablice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
